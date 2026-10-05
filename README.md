@@ -3,7 +3,7 @@
 ### Goal: Create a simple web application that uses the fs and http modules. Use http to create the server and fs to read your html file. Include vanilla ES6 js in a script tag at the bottom of your html file. Try creating a coin flip guessing game
 
 ## How It looks like
-![Screen shoot how it looks like](./img/coin-flip.png.png)
+![Screen shoot how it looks like](./img/coin-flip.png)
 ## How It Works
 ### Coin Flip API (Node.js Server)
 - The custom API handles the game logic and returns JSON responses.
