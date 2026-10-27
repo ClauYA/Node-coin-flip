@@ -1,0 +1,24 @@
+{
+  "name": "node-coin-flip",
+  "version": "1.0.0",
+  "description": "![Screen shoot how it looks like](./img/coin-flip.png)\r ## How It Works\r ### Coin Flip API (Node.js Server)\r - The custom API handles the game logic and returns JSON responses.\r - Generates a random coin flip (50/50 chance between Heads and Tails)\r - Compares the user's choice with the random result\r - Returns a JSON response with the flip result, win/lose status, and message",
+  "homepage": "https://github.com/ClauYA/Node-coin-flip#readme",
+  "bugs": {
+    "url": "https://github.com/ClauYA/Node-coin-flip/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClauYA/Node-coin-flip.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "figlet": "^1.12.0"
+  }
+}
